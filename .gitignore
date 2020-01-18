@@ -1,0 +1,8 @@
+# Git ignore for GoLang
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.log
